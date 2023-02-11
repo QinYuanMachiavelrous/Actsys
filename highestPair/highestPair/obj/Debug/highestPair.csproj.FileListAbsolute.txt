@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\bin\Debug\highestPair.exe.config
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\bin\Debug\highestPair.exe
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\bin\Debug\highestPair.pdb
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\obj\Debug\highestPair.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\obj\Debug\highestPair.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\obj\Debug\highestPair.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\obj\Debug\highestPair.exe
+C:\Users\ASUS\Documents\GitRepo\highestPair\highestPair\obj\Debug\highestPair.pdb
