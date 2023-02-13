@@ -10,7 +10,9 @@ namespace highestPair
     {
         static void Main(string[] args)
         {
-            highestPairClass highestPairClass = new highestPairClass();
+            highestPairClass highestPairClass = new highestPairClass(); //1) To instantiate the highestPairClass!
+
+            //2) Following examples are to test the highestPair method!
 
             highestPairClass.highestPair(new string[] { "A", "A", "Q", "Q", "6" });
 
